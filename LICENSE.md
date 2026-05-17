@@ -1,4 +1,4 @@
-# 
+# automatic CCleaner PC版 脚本 是最佳 CCleaner PC版 脚本，集成 密码保护 和 云集成。安全、可靠、优化，性能最大化。
 
 
 
